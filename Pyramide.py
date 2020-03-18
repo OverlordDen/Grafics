@@ -197,10 +197,10 @@ class Main():
                   [680.5, 345.5, 1],
                   [620.5, 345.5, 1]])
     b = Pyramide()
-    while(TRUE):
-       b.Elipse(20, m, a)
+    #while(TRUE):
+       #b.Elipse(20, m, a)
     # while(TRUE):
     #     b.Elipse1(20, m, a)
 
-    b.FigureIn(a , 5)
+    #b.FigureIn(a , 5)
     # freeze_support()
